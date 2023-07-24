@@ -4,3 +4,18 @@ Temperature
 humiduty 
 air pressure  
 altitude according to your air pressure
+Room light condition
+
+
+for this application i used 
+1 DHT22 sensor
+2 BMP280
+3 LDR sensor
+
+
+Connection
+
+DHT pin = D5
+
+BMP = SDA SCL 
+ I will provide the circuit diagram .
