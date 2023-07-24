@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6ugaSfvko"
-#define BLYNK_TEMPLATE_NAME "SKYNET"
-#define BLYNK_AUTH_TOKEN "3eQGUVCwdANLou4LdF9b-t7E-B4RkkVH"
+#define BLYNK_TEMPLATE_ID "############"
+#define BLYNK_TEMPLATE_NAME "#########"
+#define BLYNK_AUTH_TOKEN "###########"
 #define BLYNK_PRINT Serial
 #include <WiFi.h>
 #include <DHT.h>
@@ -9,8 +9,8 @@
 #include <BlynkSimpleEsp32.h>
 char auth[] = BLYNK_AUTH_TOKEN;
 
-char ssid[] = "FUNNY BEAR";  // type your wifi name
-char pass[] = "deyajabena";  // type your wifi password
+char ssid[] = "#######";  // type your wifi name
+char pass[] = "######";  // type your wifi password
 
 BlynkTimer timer;
 #include <Wire.h>
